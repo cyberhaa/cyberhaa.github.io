@@ -1,17 +1,38 @@
 # Zentrale Liste für alle Empfehlungen
 # Wenn sich ein Link ändert, änderst du ihn nur HIER einmal!
 
-pi5:
-  name: "Raspberry Pi 5 (8GB RAM)"
-  url: "https://www.amazon.de/dp/B0CKM93WSD?tag=DEIN_TAG-21"
-  desc: "Die perfekte Basis für Home Assistant."
+raspberry_pi_5:
+  name: "Raspberry Pi 5 4GB Starter-Kit | 64GB Edition | Offizielles 27W Netzteil | Offizielles Gehäuse mit Lüfter | 4K Micro HDMI Kabel 1m | Alu-Kühlkörper "
+  url: https://amzn.to/4kJjV44
 
-skyconnect:
-  name: "Home Assistant SkyConnect"
-  url: "https://www.amazon.de/dp/B0BRL8V1S6?tag=DEIN_TAG-21"
-  desc: "Der offizielle Zigbee/Matter Stick."
+usb_reader_sd:
+  name: SanDisk MobileMate USB 3.0 Kartenleser (Für microSD Speicherkarten, kompaktes und robustes Design, abwärtskompatibel mit USB 2.0, 170 MB/s Übertragung) 
+  url: https://amzn.to/46Q7TQP
 
-unifi_ap:
-  name: "Ubiquiti UniFi 6 Lite"
-  url: "https://www.amazon.de/dp/B08QNPRP58?tag=DEIN_TAG-21"
-  desc: "Preis-Leistungs-Sieger für dein WLAN."
+sd_card:
+  name: SanDisk High Endurance microSDXC Speicherkarte 128 GB + Adapter (Für Dash-Cams und private Überwachungskameras, 100 MB/s Lesen, V30 für Full-HD und 4K-Videos) 
+  url: https://amzn.to/3OxvYWg
+
+sonoff_zigbee_p:
+  name: SONOFF Zigbee 3.0 USB Dongle Plus,Zigbee Gateway TI CC2652P + CP2102N Zigbee USB Stick,Zigbee Hub für ZHA in Home Assistant or Zigbee2MQTT,Open HAB etc. 
+  url: https://amzn.to/40opU4Z
+
+sonoff_zigbee_e:
+  name: SONOFF Zigbee Gateway, ZBDongle-E 3.0 USB Dongle Plus,EFR32MG21 + CH9102F/CP2102N Zigbee USB-Stick EFR32MG21 Coordinator für für ZHA in Home Assistant or Zigbee2MQTT,Open HAB etc. 
+  url: https://amzn.to/4tLjdrd
+
+ha_zigbee_skyconnect:
+  name: Home Assistant Connect ZBT-2 | Verbinden Sie Zigbee-, Thread- oder Mater-Geräte mit dem Home Assistant | Offizielle Hardware 
+  url: https://amzn.to/4rub4WP
+
+zigbee_conbee:
+  name: ConBee II - universelles Zigbee 3.0 USB-Gateway, inkl. deCONZ & Phoscon App, Home Automation, Home Assistant, ioBroker, Zigbee2MQTT 
+  url: https://amzn.to/3OmtdHn
+
+usb_1m_cable:
+  name: UGREEN USB Verlängerung Kabel USB 3.0 Verlängerungskabel A Stecker auf A Buchse mit Vergoldeten Kontakte für Kartenlesegerät,Tastatur, Drucker, Scanner, Kamera usw 1m 
+  url: https://amzn.to/3OmtkCN
+
+mini_pc_acemagician:
+  name: ACEMAGICIAN AM06 Pro Mini PC, AMD Ryzen 7 5700U (8C/16T, bis zu 4.3Ghz),32GB DDR4 1TB M.2 SSD Mini Computer mit 4K Triple Display | Type-C | Dual Ethernet | WiFi 6 | BT 5.2 
+  url: https://amzn.to/3ZKYmH2

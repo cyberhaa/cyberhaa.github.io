@@ -49,7 +49,7 @@ Das war meine größte Sorge. Zwei Raspberry Pis verbrauchen zusammen vielleicht
 ## Fazit: Wer sollte wechseln?
 Wenn du gerade erst mit Home Assistant anfängst, ist ein [Raspberry Pi]({{ site.data.amazon.raspberry_pi_5.url }}) völlig okay. 
 
-Aber sobald du mehr als nur ein paar Lampen steuern willst, du Überwachungskameras planst oder deine eigenen Daten sicher im Netzwerk hosten möchtest: Tu dir den Gefallen und überspringe die "Mehrere Pis"-Phase. Ein leistungsstarker **[Mini-PC mit Unraid]({{ site.data.hardware.mini_pc_acemagician.url }})** ist der absolute Endgame-Server für das Smart Home. 
+Aber sobald du mehr als nur ein paar Lampen steuern willst, du Überwachungskameras planst oder deine eigenen Daten sicher im Netzwerk hosten möchtest: Tu dir den Gefallen und überspringe die "Mehrere Pis"-Phase. Ein leistungsstarker **[Mini-PC mit Unraid]({{ site.data.amazon.mini_pc_acemagician.url }})** ist der absolute Endgame-Server für das Smart Home. 
 
 <style>
   /* Versteckt das Header-Bild ganz oben im Artikel */

@@ -1,0 +1,17 @@
+# Zentrale Liste für alle Empfehlungen
+# Wenn sich ein Link ändert, änderst du ihn nur HIER einmal!
+
+pi5:
+  name: "Raspberry Pi 5 (8GB RAM)"
+  url: "https://www.amazon.de/dp/B0CKM93WSD?tag=DEIN_TAG-21"
+  desc: "Die perfekte Basis für Home Assistant."
+
+skyconnect:
+  name: "Home Assistant SkyConnect"
+  url: "https://www.amazon.de/dp/B0BRL8V1S6?tag=DEIN_TAG-21"
+  desc: "Der offizielle Zigbee/Matter Stick."
+
+unifi_ap:
+  name: "Ubiquiti UniFi 6 Lite"
+  url: "https://www.amazon.de/dp/B08QNPRP58?tag=DEIN_TAG-21"
+  desc: "Preis-Leistungs-Sieger für dein WLAN."

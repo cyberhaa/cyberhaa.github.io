@@ -1,8 +1,7 @@
 ---
 layout: page
-icon: fas fa-file-signature
 title: Impressum
-order: 4
+permalink: /impressum/
 ---
 
 ## Angaben gemäß § 5 DDG (ehemals TMG)

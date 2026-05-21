@@ -1,8 +1,7 @@
 ---
 layout: page
-icon: fas fa-user-shield
 title: Datenschutz
-order: 5
+permalink: /datenschutz/
 ---
 
 ## 1. Datenschutz auf einen Blick

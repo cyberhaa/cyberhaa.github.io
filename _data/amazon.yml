@@ -33,6 +33,48 @@ usb_1m_cable:
   name: UGREEN USB Verlängerung Kabel USB 3.0 Verlängerungskabel A Stecker auf A Buchse mit Vergoldeten Kontakte für Kartenlesegerät,Tastatur, Drucker, Scanner, Kamera usw 1m 
   url: https://amzn.to/3OmtkCN
 
+smart_meter_usb:
+  name: SmartMeterReader - UART | IR Lesekopf 
+  url: https://amzn.to/4cnVF5N
+
 mini_pc_acemagician:
   name: ACEMAGICIAN AM06 Pro Mini PC, AMD Ryzen 7 5700U (8C/16T, bis zu 4.3Ghz),32GB DDR4 1TB M.2 SSD Mini Computer mit 4K Triple Display | Type-C | Dual Ethernet | WiFi 6 | BT 5.2 
   url: https://amzn.to/3ZKYmH2
+
+# --- Worx Landroid ---
+
+landroid_m700:
+  name: "Worx Landroid M WR148E Mähroboter, bis 700 m² Rasenfläche, WLAN, App-Steuerung"
+  url: https://amzn.to/4wyWRL0
+
+landroid_acs:
+  name: "Worx WA0860 ACS Ultraschall-Sensor für Landroid Mähroboter, Anti-Kollisions-System"
+  url: https://amzn.to/4dXeM6L
+
+landroid_klingen:
+  name: "Worx WA0190 Ersatzklingen-Set für Landroid Mähroboter (12 Stück inkl. Schrauben)"
+  url: https://amzn.to/4nEEj84
+
+gewindeeinsaetze_m4:
+  name: "Gewindeeinsätze M4 x 6mm zum Einschmelzen mit Lötkolben, Messing (100 Stück)"
+  url: https://amzn.to/4dCq6nD
+
+petg_filament:
+  name: "PETG Filament 1.75mm, 1kg Spule für 3D-Drucker"
+  url: https://amzn.to/4u8wQQx
+
+# --- Neato ESP32 Rettung ---
+
+esp32_devkit:
+  name: "AZDelivery ESP32 NodeMCU Module WLAN WiFi Development Board mit CP2102"
+  url: https://amzn.to/3RAZADG
+
+dupont_kabel:
+  name: "AZDelivery Jumper Wire Kabel Set, 3x40 Stück je 20cm, M2M/F2M/F2F für Arduino und Raspberry Pi"
+  url: https://amzn.to/42NAQuo
+
+# --- rclone Backup ---
+
+hetzner_storagebox:
+  name: "Hetzner Storage Box"
+  url: https://www.hetzner.com/storage/storage-box/

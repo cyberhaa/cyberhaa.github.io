@@ -2,8 +2,9 @@
 layout: post
 title: "Mini-PC vs. Raspberry Pi: Warum ich mein Smart Home auf Unraid umgezogen habe"
 date: 2025-06-22
-categories: [Hardware]
-tags: [Unraid, Mini-PC, RaspberryPi, HomeAssistant, Hardware]
+categories: [Server & Netzwerk]
+tags: [Unraid, Mini-PC, RaspberryPi, HomeAssistant]
+description: "Warum ich meine Raspberry Pis durch einen Ryzen Mini-PC mit Unraid ersetzt habe – mehr Leistung, weniger Chaos, kaum mehr Stromverbrauch."
 image:
   path: /assets/img/posts/unraid-ace-hardware.png
 ---
@@ -21,14 +22,14 @@ Versteht mich nicht falsch, der Raspberry Pi ist genial. Aber er hat Grenzen:
 3. **Das Chaos:** Mehrere Geräte bedeuten mehrere IP-Adressen, mehrere Updates und mehrere Fehlerquellen.
 
 ## Mein Upgrade: Ein Mini-PC als Server
-Statt eines klassischen "Intel NUC" habe ich mich für die rote Fraktion (AMD) entschieden. Mein neues Herzstück für das gesamte Haus ist der **[ACEMAGICIAN AM06 Pro]({{ site.data.amazon.mini_pc_acemagician.url }})**. 
+Statt eines klassischen "Intel NUC" habe ich mich für die rote Fraktion (AMD) entschieden. Mein neues Herzstück für das gesamte Haus ist der **[ACEMAGICIAN AM06 Pro *]({{ site.data.amazon.mini_pc_acemagician.url }})**. 
 
 Schaut euch mal diese Eckdaten an, verglichen mit einem Pi:
 * **CPU:** AMD Ryzen 7 5700U (8 Kerne, 16 Threads! Das Teil hat Leistung satt.)
 * **RAM:** 32GB DDR4
 * **Speicher:** 1TB M.2 NVMe SSD
 
-![Screenshot meiner Unraid Hardware-Übersicht](/assets/img/posts/unraid-ace-hardware.png){: .shadow .rounded-10 }
+![Unraid Dashboard mit AMD Ryzen 7 5700U Hardware-Übersicht und CPU-Auslastung](/assets/img/posts/unraid-ace-hardware.png){: .shadow .rounded-10 }
 _Ein Blick in mein Unraid-Dashboard: Der Ryzen 7 langweilt sich meistens._
 
 Mit dieser Hardware langweilt sich Home Assistant zu Tode. Aber genau das war der Plan, denn jetzt kommt die Software ins Spiel, die alles verändert hat.
@@ -47,9 +48,11 @@ Das war meine größte Sorge. Zwei Raspberry Pis verbrauchen zusammen vielleicht
 Überraschung: Moderne Mini-PCs sind extrem effizient. Mein Acemagician zieht im normalen Smart-Home-Alltag (Unraid Idle, VMs und Container laufen) **gerade mal 12 bis 15 Watt**. Das sind im Jahr vielleicht 10-15 Euro mehr Stromkosten im Vergleich zu den Pis – dafür habe ich aber die 20-fache Leistung und endlich alles sicher und zentral an einem Ort.
 
 ## Fazit: Wer sollte wechseln?
-Wenn du gerade erst mit Home Assistant anfängst, ist ein [Raspberry Pi]({{ site.data.amazon.raspberry_pi_5.url }}) völlig okay. 
+Wenn du gerade erst mit Home Assistant anfängst, ist ein [Raspberry Pi *]({{ site.data.amazon.raspberry_pi_5.url }}) völlig okay. 
 
-Aber sobald du mehr als nur ein paar Lampen steuern willst, du Überwachungskameras planst oder deine eigenen Daten sicher im Netzwerk hosten möchtest: Tu dir den Gefallen und überspringe die "Mehrere Pis"-Phase. Ein leistungsstarker **[Mini-PC mit Unraid]({{ site.data.amazon.mini_pc_acemagician.url }})** ist der absolute Endgame-Server für das Smart Home. 
+Aber sobald du mehr als nur ein paar Lampen steuern willst, du Überwachungskameras planst oder deine eigenen Daten sicher im Netzwerk hosten möchtest: Tu dir den Gefallen und überspringe die "Mehrere Pis"-Phase. Ein leistungsstarker **[Mini-PC mit Unraid *]({{ site.data.amazon.mini_pc_acemagician.url }})** ist für mich die beste Lösung fürs Smart Home. 
+
+Wenn du wissen willst, welches Betriebssystem am besten auf den Mini-PC kommt, lies meinen [Vergleich von Proxmox, TrueNAS und Unraid]({% post_url 2025-07-03-proxmox-vs-unraid-smart-home-server %}).
 
 <style>
   /* Versteckt das Header-Bild ganz oben im Artikel */

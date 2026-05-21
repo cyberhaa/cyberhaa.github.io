@@ -2,13 +2,14 @@
 layout: post
 title: "Proxmox vs. TrueNAS vs. Unraid: Mein Weg zum perfekten Smart-Home-OS"
 date: 2025-07-03
-categories: [Software]
-tags: [Unraid, Proxmox, Mini-PC, HomeAssistant, Setup]
+categories: [Server & Netzwerk]
+tags: [Unraid, Proxmox, HomeAssistant]
+description: "Proxmox vs. TrueNAS vs. Unraid im Vergleich: Welches Betriebssystem eignet sich am besten als Smart-Home-Server für zu Hause?"
 image:
   path: /assets/img/posts/unraid-apps.png
 ---
 
-Mein neuer [Ryzen Mini-PC]({{ site.data.amazon.mini_pc_acemagician.url }}) stand endlich auf dem Schreibtisch. Die Raspberry Pis waren abgebaut, die Hardware war bereit. Fehlte nur noch eine "Kleinigkeit": Welches Betriebssystem installiere ich da eigentlich drauf?
+Mein neuer [Ryzen Mini-PC *]({{ site.data.amazon.mini_pc_acemagician.url }}) stand endlich auf dem Schreibtisch. Die Raspberry Pis waren abgebaut, die Hardware war bereit. Fehlte nur noch eine "Kleinigkeit": Welches Betriebssystem installiere ich da eigentlich drauf?
 
 Ich wollte ein NAS (Netzwerkspeicher) für meine Daten und gleichzeitig eine sichere, isolierte Umgebung für Home Assistant, Pi-hole und meine anderen Smart-Home-Dienste. 
 
@@ -42,7 +43,7 @@ Der Name "Unraid" ist Programm (es nutzt kein klassisches RAID). Wenn ich späte
 Das ist der absolute Gamechanger für Smart-Home-Nutzer. Unraid hat einen eingebauten "App Store" für Docker-Container. 
 Du willst Zigbee2MQTT, Node-RED, Plex oder AdGuard installieren? Klick auf Installieren, trag deine Ordner-Pfade in ein schickes Web-Interface ein, und der Container läuft. Kein händisches Tippen von "docker-compose.yaml" Dateien im Terminal.
 
-![Unraid Apps](/assets/img/posts/unraid-apps.png){: .shadow .rounded-10 }
+![Unraid Community Applications App Store mit Docker-Containern](/assets/img/posts/unraid-apps.png){: .shadow .rounded-10 }
 _Unraid Apps - Hier wird man fündig_
 
 ### 4. Virtuelle Maschinen leicht gemacht
@@ -52,6 +53,8 @@ Home Assistant als Docker-Container laufen zu lassen, schränkt oft Funktionen (
 Proxmox ist toll für Leute, die primär tüfteln und virtualisieren wollen. TrueNAS ist für Daten-Puristen. 
 
 **Unraid ist für mich das perfekte Schweizer Taschenmesser.** Es nimmt einem die lästige Konfigurationsarbeit unter Linux ab, vereint NAS und Smart-Home-Server in einer genialen Weboberfläche und spart mir am Ende das Wichtigste: **Zeit.** Zeit, die ich lieber in neue Home Assistant Automatisierungen stecke, als in die Reparatur meiner Server-Struktur.
+
+Im nächsten Schritt zeige ich dir, wie du [Home Assistant als VM in Unraid aufsetzt]({% post_url 2025-07-13-install-ha-vm %}) – inklusive USB Passthrough für deinen Zigbee-Stick.
 
 ---
 

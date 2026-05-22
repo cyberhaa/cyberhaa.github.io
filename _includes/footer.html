@@ -23,3 +23,23 @@
   <p><a href="/impressum/">Impressum</a> &nbsp;|&nbsp; <a href="/datenschutz/">Datenschutz</a>
   </p>
 </footer>
+
+<script>
+  /**
+   * Stellt sicher, dass externe Links (insbesondere Amazon Affiliate Links)
+   * in einem neuen Tab geöffnet werden.
+   */
+  document.addEventListener("DOMContentLoaded", function() {
+    var links = document.getElementsByTagName('a');
+    for (var i = 0; i < links.length; i++) {
+      var href = links[i].getAttribute('href');
+      if (href && (href.includes('amzn.to') || href.includes('amazon.de') || href.startsWith('http'))) {
+        // Prüfen, ob es wirklich ein externer Link ist (nicht die eigene Domain)
+        if (!href.includes(window.location.hostname) && !href.startsWith('/') && !href.startsWith('#')) {
+          links[i].setAttribute('target', '_blank');
+          links[i].setAttribute('rel', 'noopener noreferrer');
+        }
+      }
+    }
+  });
+</script>

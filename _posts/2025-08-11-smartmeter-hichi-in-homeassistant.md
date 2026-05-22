@@ -24,7 +24,7 @@ _USB Smartmeter am Zähler_
 
 Moderne digitale Stromzähler haben auf der Vorderseite zwei kleine optische Dioden. Darüber funken sie im Sekundentakt per Infrarot den aktuellen Zählerstand und den Live-Verbrauch in die Welt hinaus. Man sieht das Blinken nicht mit dem bloßen Auge (haltet mal die Handykamera davor!), aber man kann es auslesen.
 
-Dafür habe ich mir den **[SmartMeterReader USB, IR Lesekopf (Optokopf - UART) *]({{ site.data.amazon.smart_meter_usb.url }})** gekauft. 
+Dafür habe ich mir den **[SmartMeterReader USB, IR Lesekopf (Optokopf - UART) *]({{ site.data.amazon.smart_meter_usb.url }}){:target="_blank"}** gekauft. 
 Er kostet nicht viel, hat einen integrierten Magneten und "klebt" damit von ganz alleine exakt über der Infrarot-Schnittstelle des Zählers. 
 
 

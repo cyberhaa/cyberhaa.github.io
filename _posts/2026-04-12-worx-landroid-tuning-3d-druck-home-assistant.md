@@ -9,7 +9,7 @@ image:
   path: /assets/img/posts/worx.jpeg
 ---
 
-Mein [Worx Landroid M700 (WR148E) *]({{ site.data.amazon.landroid_m700.url }}) mäht seit einer Weile zuverlässig den Garten. Aber "zuverlässig" heißt bei Mährobotern ungefähr das Gleiche wie "funktioniert meistens". Die Original-Räder drehen bei feuchtem Gras durch wie ein Hamster im Laufrad, die einzelne Klinge hinterlässt bei schnellem Wachstum eher Streifen als einen sauberen Schnitt, und der Mäher fährt auch fröhlich los, wenn es gerade schüttet oder die Kinder im Garten Fußball spielen.
+Mein [Worx Landroid M700 (WR148E) *]({{ site.data.amazon.landroid_m700.url }}){:target="_blank"} mäht seit einer Weile zuverlässig den Garten. Aber "zuverlässig" heißt bei Mährobotern ungefähr das Gleiche wie "funktioniert meistens". Die Original-Räder drehen bei feuchtem Gras durch wie ein Hamster im Laufrad, die einzelne Klinge hinterlässt bei schnellem Wachstum eher Streifen als einen sauberen Schnitt, und der Mäher fährt auch fröhlich los, wenn es gerade schüttet oder die Kinder im Garten Fußball spielen.
 
 Ich habe drei Mods gemacht, die das Ding spürbar besser gemacht haben – zwei davon kommen aus dem 3D-Drucker, der dritte aus Home Assistant.
 
@@ -24,7 +24,7 @@ Die Lösung sind 3D-gedruckte Traktor-Räder mit aggressivem Profil. Ich nutze d
 
 ### Was du brauchst
 - 3D-Drucker (ich nutze meinen [Elegoo Neptune 4]({% post_url 2026-03-05-neptune-4-usb-kamera %}))
-- [PETG Filament *]({{ site.data.amazon.petg_filament.url }}) – PLA ist zu spröde für den Außeneinsatz!
+- [PETG Filament *]({{ site.data.amazon.petg_filament.url }}){:target="_blank"} – PLA ist zu spröde für den Außeneinsatz!
 - Die STL-Dateien vom Printables-Link oben
 
 ### Druckeinstellungen
@@ -48,8 +48,8 @@ Auf Printables gibt es eine kostenlose 6-Klingen-Scheibe: [Modell #203620 von Cr
 
 ### Was du brauchst
 - Die STL-Dateien: `Cutting_disc_6_blades.stl` + `Adapter_original_height.stl`
-- 6x [Worx Ersatzklingen WA0190 *]({{ site.data.amazon.landroid_klingen.url }}) (die Standard-Klingen passen weiterhin!)
-- 6x [M4 Gewindeeinsätze *]({{ site.data.amazon.gewindeeinsaetze_m4.url }}) (mit dem Lötkolben einschmelzen)
+- 6x [Worx Ersatzklingen WA0190 *]({{ site.data.amazon.landroid_klingen.url }}){:target="_blank"} (die Standard-Klingen passen weiterhin!)
+- 6x [M4 Gewindeeinsätze *]({{ site.data.amazon.gewindeeinsaetze_m4.url }}){:target="_blank"} (mit dem Lötkolben einschmelzen)
 
 ### Druckeinstellungen
 - **Material:** PETG
@@ -105,7 +105,7 @@ automation:
 
 ## Was ist mit dem ACS Ultraschall-Sensor?
 
-Ich habe den [ACS-Sensor (WA0860) *]({{ site.data.amazon.landroid_acs.url }}) nachgerüstet. Ehrliche Meinung: Naja. Er erkennt Bäume, Mauern und Gartenbänke ganz okay. Aber dünne Hindernisse wie Blumentöpfe, Spielzeug oder den Gartenschlauch, den jemand liegen gelassen hat? Übersieht er fröhlich. Das ist leider eine Hardware-Limitation des Ultraschalls – da wird auch kein Firmware-Update was dran ändern.
+Ich habe den [ACS-Sensor (WA0860) *]({{ site.data.amazon.landroid_acs.url }}){:target="_blank"} nachgerüstet. Ehrliche Meinung: Naja. Er erkennt Bäume, Mauern und Gartenbänke ganz okay. Aber dünne Hindernisse wie Blumentöpfe, Spielzeug oder den Gartenschlauch, den jemand liegen gelassen hat? Übersieht er fröhlich. Das ist leider eine Hardware-Limitation des Ultraschalls – da wird auch kein Firmware-Update was dran ändern.
 
 Mein Tipp: Spar dir den Frust und investier lieber in ordentliche Rasenkanten aus Metall oder Stein (ca. 10cm hoch) um Beete und empfindliche Bereiche. Das ist zuverlässiger als jeder Sensor und kostet weniger Nerven.
 

@@ -9,7 +9,7 @@ image:
   path: /assets/img/posts/unraid-apps.png
 ---
 
-Mein neuer [Ryzen Mini-PC *]({{ site.data.amazon.mini_pc_acemagician.url }}) stand endlich auf dem Schreibtisch. Die Raspberry Pis waren abgebaut, die Hardware war bereit. Fehlte nur noch eine "Kleinigkeit": Welches Betriebssystem installiere ich da eigentlich drauf?
+Mein neuer [Ryzen Mini-PC *]({{ site.data.amazon.mini_pc_acemagician.url }}){:target="_blank"} stand endlich auf dem Schreibtisch. Die Raspberry Pis waren abgebaut, die Hardware war bereit. Fehlte nur noch eine "Kleinigkeit": Welches Betriebssystem installiere ich da eigentlich drauf?
 
 Ich wollte ein NAS (Netzwerkspeicher) für meine Daten und gleichzeitig eine sichere, isolierte Umgebung für Home Assistant, Pi-hole und meine anderen Smart-Home-Dienste. 
 

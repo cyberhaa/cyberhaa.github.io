@@ -11,7 +11,7 @@ image:
 
 Wenn du einen Neato Botvac D5 (oder D3, D4, D6, D7) besitzt, hast du es vermutlich schon mitbekommen: **Neato hat die Cloud-Server abgeschaltet.** Die App? Tot. Die Home Assistant Cloud-Integration? Auch tot. Dein 400-Euro-Saugroboter ist jetzt im Grunde ein teurer Briefbeschwerer mit einem einzigen Knopf oben drauf.
 
-Wegwerfen? Kommt nicht in die Tüte. Der Roboter selbst funktioniert ja noch einwandfrei – nur die Verbindung zur Außenwelt fehlt. Und genau die bauen wir jetzt selbst. Mit einem [ESP32-C3 Super Mini *]({{ site.data.amazon.esp32_devkit.url }}) für unter 5 Euro und ESPHome.
+Wegwerfen? Kommt nicht in die Tüte. Der Roboter selbst funktioniert ja noch einwandfrei – nur die Verbindung zur Außenwelt fehlt. Und genau die bauen wir jetzt selbst. Mit einem [ESP32-C3 Super Mini *]({{ site.data.amazon.esp32_devkit.url }}){:target="_blank"} für unter 5 Euro und ESPHome.
 
 ![Neato Botvac D5 Saugroboter von vorne nach Cloud-Abschaltung](/assets/img/posts/neato-vorne.jpeg){: .shadow .rounded-10 }
 _Mein Neato Botvac D5 – äußerlich top, nur die Cloud ist weg_
@@ -29,8 +29,8 @@ Kein Löten an der Neato-Platine nötig, nur Dupont-Stecker aufstecken.
 
 ## Hardware: Was du brauchst
 
-- [ESP32-C3 Super Mini *]({{ site.data.amazon.esp32_devkit.url }}) (winzig, günstig, reicht völlig)
-- [Dupont-Kabel (Female-to-Female) *]({{ site.data.amazon.dupont_kabel.url }}) – 3 Stück reichen
+- [ESP32-C3 Super Mini *]({{ site.data.amazon.esp32_devkit.url }}){:target="_blank"} (winzig, günstig, reicht völlig)
+- [Dupont-Kabel (Female-to-Female) *]({{ site.data.amazon.dupont_kabel.url }}){:target="_blank"} – 3 Stück reichen
 - Doppelseitiges Klebeband für die Montage
 - Optional: Kleiner Kondensator (100µF) zur Stabilisierung
 

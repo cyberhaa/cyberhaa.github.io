@@ -178,7 +178,7 @@ Der ESP32-C3 Super Mini hat keinen separaten USB-Chip, sondern nutzt den interne
 3. Nach dem ersten Flash verbindet sich der ESP32 mit eurem WLAN
 4. Ab jetzt laufen Updates Over-the-Air (kein USB mehr nötig)
 
-Alternativ geht auch [web.esphome.io](https://web.esphome.io) direkt im Chrome-Browser.
+Alternativ geht auch [web.esphome.io](https://web.esphome.io){:target="_blank"} direkt im Chrome-Browser.
 
 ## Schritt 5: Testen
 
@@ -236,7 +236,7 @@ Für unter 5 Euro und einen Abend Bastelei hast du deinen Neato komplett wiederb
 
 Und das Projekt zeigt mal wieder, warum ein [lokaler Home Assistant Server]({% post_url 2025-06-22-mini-pc-vs-pi-unraid-switch %}) Gold wert ist: Wenn ein Hersteller seine Cloud abschaltet, baut man sich die Verbindung halt selbst. Tschüss, geplante Obsoleszenz.
 
-*Wer tiefer einsteigen will: Das [neato-brainslug Projekt auf GitHub](https://github.com/Philip2809/neato-brainslug) bietet eine vollständige Gen3-Integration mit Status-Parsing, Akku-Sensoren und einer echten Vacuum-Entity in Home Assistant.*
+*Wer tiefer einsteigen will: Das [neato-brainslug Projekt auf GitHub](https://github.com/Philip2809/neato-brainslug){:target="_blank"} bietet eine vollständige Gen3-Integration mit Status-Parsing, Akku-Sensoren und einer echten Vacuum-Entity in Home Assistant.*
 
 <style>
   .preview-img { display: none !important; }

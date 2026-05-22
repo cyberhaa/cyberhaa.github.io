@@ -42,7 +42,7 @@ knxd spricht über USB mit der Programmier-Dose, die wiederum die KNX-Telegramme
 
 Ich lasse knxd als eigene kleine VM auf meinem [Unraid-Server]({% post_url 2025-06-22-mini-pc-vs-pi-unraid-switch %}) laufen. Die USB-Programmier-Dose hängt per USB-Kabel am Server und wird per [USB Passthrough]({% post_url 2025-07-13-install-ha-vm %}) sauber an die VM durchgereicht. So läuft knxd unabhängig von Home Assistant.
 
-Alternativ kannst du knxd auch direkt auf einem Raspberry Pi oder als Docker-Container betreiben. Für Home Assistant OS gibt es sogar ein [knxd Add-on](https://community.home-assistant.io/t/knxd-add-on-convert-your-knx-usb-interface-into-an-ip-interface-that-can-be-used-by-ha/38108), das die Einrichtung vereinfacht.
+Alternativ kannst du knxd auch direkt auf einem Raspberry Pi oder als Docker-Container betreiben. Für Home Assistant OS gibt es sogar ein [knxd Add-on](https://community.home-assistant.io/t/knxd-add-on-convert-your-knx-usb-interface-into-an-ip-interface-that-can-be-used-by-ha/38108){:target="_blank"}, das die Einrichtung vereinfacht.
 
 ### Schritt 1: USB-Gerät identifizieren
 

@@ -20,7 +20,7 @@ _Mein Landroid WR148E mit den neuen Traktor-Rädern_
 
 Das größte Ärgernis mit dem Landroid auf unebenem oder leicht feuchtem Rasen: Die glatten Original-Räder drehen durch. Der Mäher bleibt hängen, dreht sich im Kreis oder gibt bei kleinen Steigungen einfach auf und fährt zurück zur Station. Nervig.
 
-Die Lösung sind 3D-gedruckte Traktor-Räder mit aggressivem Profil. Ich nutze das Modell von [Printables (Modell #441847)](https://www.printables.com/model/441847), das speziell für den WR148E designed wurde.
+Die Lösung sind 3D-gedruckte Traktor-Räder mit aggressivem Profil. Ich nutze das Modell von [Printables (Modell #441847)](https://www.printables.com/model/441847){:target="_blank"}, das speziell für den WR148E designed wurde.
 
 ### Was du brauchst
 - 3D-Drucker (ich nutze meinen [Elegoo Neptune 4]({% post_url 2026-03-05-neptune-4-usb-kamera %}))
@@ -36,7 +36,7 @@ Die Lösung sind 3D-gedruckte Traktor-Räder mit aggressivem Profil. Ich nutze d
 Pro Rad brauchst du drei Teile: Reifen, Felgenabdeckung und Nabe. Das Ganze **2x drucken** (links + rechts). Ganz wichtig: Die Originalgewichte aus den alten Rädern müssen in die neuen Naben eingesetzt werden, sonst erkennt der Landroid die Räder nicht korrekt.
 
 ### Vorderräder nicht vergessen!
-Die neuen Hinterräder haben einen größeren Durchmesser (220mm statt original). Damit der Mäher nicht schief steht, brauchst du auch Verstärkungen für die Vorderräder. Dafür gibt es Slide-On Aufsätze auf [Printables (Modell #529424)](https://www.printables.com/model/529424), die einfach auf die bestehenden Vorderräder aufgeschoben werden. **2x drucken** (der WR148E hat zwei Vorderräder) mit 80-100% Infill.
+Die neuen Hinterräder haben einen größeren Durchmesser (220mm statt original). Damit der Mäher nicht schief steht, brauchst du auch Verstärkungen für die Vorderräder. Dafür gibt es Slide-On Aufsätze auf [Printables (Modell #529424)](https://www.printables.com/model/529424){:target="_blank"}, die einfach auf die bestehenden Vorderräder aufgeschoben werden. **2x drucken** (der WR148E hat zwei Vorderräder) mit 80-100% Infill.
 
 **Das Ergebnis:** Der Landroid krallt sich jetzt förmlich in den Boden. Steigungen, die vorher zum Abbruch geführt haben, nimmt er einfach so. Bei nassem Gras dreht auch nichts mehr durch. Hätte ich mal gleich gemacht.
 
@@ -44,7 +44,7 @@ Die neuen Hinterräder haben einen größeren Durchmesser (220mm statt original)
 
 Der Landroid kommt ab Werk mit einer Scheibe, an der drei kleine Klingen hängen. Das funktioniert so lala, aber gerade im Frühling, wenn das Gras explodiert, sieht man deutlich die Schnittspuren. Die Lösung ist simpel: mehr Klingen.
 
-Auf Printables gibt es eine kostenlose 6-Klingen-Scheibe: [Modell #203620 von Crazy3D](https://www.printables.com/model/203620). Die kommt sogar mit einem Adapter, damit sie auf die Original-Aufnahme passt.
+Auf Printables gibt es eine kostenlose 6-Klingen-Scheibe: [Modell #203620 von Crazy3D](https://www.printables.com/model/203620){:target="_blank"}. Die kommt sogar mit einem Adapter, damit sie auf die Original-Aufnahme passt.
 
 ### Was du brauchst
 - Die STL-Dateien: `Cutting_disc_6_blades.stl` + `Adapter_original_height.stl`

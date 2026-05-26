@@ -78,3 +78,145 @@ dupont_kabel:
 hetzner_storagebox:
   name: "Hetzner Storage Box"
   url: https://www.hetzner.com/storage/storage-box/
+
+# --- Balkonkraftwerk / OpenDTU ---
+
+balkonkraftwerk_800w:
+  name: "Balkonkraftwerk 800W Komplettset mit 2x Solarpanel und Hoymiles Wechselrichter"
+  url: https://amzn.to/4dwTvRk
+
+hoymiles_hms_800:
+  name: "Hoymiles HMS-800W-2T Mikrowechselrichter mit integriertem WLAN"
+  url: https://amzn.to/4f4mL33
+
+opendtu_board:
+  name: "ESP32 mit NRF24L01+ Funkmodul für OpenDTU (Fertig-Board)"
+  url: https://amzn.to/4f9TYu2
+
+# --- UniFi Netzwerk ---
+
+unifi_dream_router:
+  name: "Ubiquiti UniFi Dream Router, WiFi 6, integrierter Controller"
+  url: https://amzn.to/4dLfN0m
+
+unifi_u6_plus:
+  name: "Ubiquiti UniFi U6+ Access Point, WiFi 6, PoE"
+  url: https://amzn.to/3S3r593
+
+unifi_flex_mini:
+  name: "Ubiquiti UniFi Flex Mini Switch, 5-Port Gigabit, USB-C powered"
+  url: https://amzn.to/4tUm5kn
+
+unifi_u6_mesh:
+  name: "Ubiquiti UniFi U6 Mesh Access Point, Outdoor, WiFi 6"
+  url: https://amzn.to/43BT1mZ
+
+# --- Immich ---
+
+nas_hdd_4tb:
+  name: "WD Red Plus 4TB NAS Festplatte, 3.5 Zoll, CMR, 256MB Cache"
+  url: https://amzn.to/3PL4CNh
+
+# --- Filament ---
+
+petg_filament_schwarz:
+  name: "PETG Filament 1.75mm Schwarz, 1kg Spule, UV-beständig"
+  url: https://amzn.to/4dH0CW8
+
+pla_filament:
+  name: "PLA Filament 1.75mm, 1kg Spule für 3D-Drucker"
+  url: https://amzn.to/4e5fuim
+
+asa_filament:
+  name: "ASA Filament 1.75mm, 1kg Spule, UV- und wetterbeständig"
+  url: https://amzn.to/4tZy1l1
+
+# --- Smart Home Automatisierung ---
+
+aqara_motion:
+  name: "Aqara Bewegungssensor P1, Zigbee 3.0, für Home Assistant"
+  url: https://amzn.to/4nMnKHi
+
+aqara_door:
+  name: "Aqara Tür- und Fenstersensor, Zigbee 3.0, für Home Assistant"
+  url: https://amzn.to/3Ptt6uC
+
+shelly_plug_s:
+  name: "Shelly Plug S, WLAN Steckdose mit Strommessung, 12A"
+  url: https://amzn.to/4utK5fm
+
+shelly_1pm:
+  name: "Shelly Plus 1PM, WLAN Schaltaktor mit Strommessung"
+  url: https://amzn.to/3RvNPhW
+
+# --- 3D-Drucker Upgrades ---
+
+capricorn_tube:
+  name: "Capricorn Bowden PTFE Schlauch, 1m, für 1.75mm Filament"
+  url: https://amzn.to/4vhFYDn
+
+hardened_nozzle:
+  name: "Gehärtete Stahl-Düsen Set 0.4mm, für Ender 3 / Neptune 4"
+  url: https://amzn.to/4vfDhSM
+
+pei_sheet:
+  name: "PEI Federstahlplatte, magnetisch, 235x235mm"
+  url: https://amzn.to/4v3dRaA
+
+# --- Überwachungskameras ---
+
+reolink_811a:
+  name: "Reolink RLC-811A PoE Überwachungskamera, 4K, Personen-/Fahrzeugerkennung, Nachtsicht"
+  url: https://amzn.to/3RvrIIu
+
+reolink_510a:
+  name: "Reolink RLC-510A PoE Kamera, 5MP, Smart Detection, Outdoor"
+  url: https://amzn.to/49pOyY3
+
+poe_switch_unifi:
+  name: "Ubiquiti UniFi Switch Lite 8 PoE, 8-Port Gigabit, 52W PoE Budget"
+  url: https://amzn.to/4u1cRDg
+
+# --- Synology Vergleich ---
+
+synology_ds224:
+  name: "Synology DiskStation DS224+, 2-Bay NAS, Intel Celeron, 2GB RAM"
+  url: https://amzn.to/4dOsBmW
+
+# --- Siemens EQ6 Kaffeemaschine ---
+
+siemens_wasserfilter:
+  name: "BRITA Intenza Wasserfilter für Siemens EQ Kaffeevollautomaten (3er Pack)"
+  url: https://amzn.to/3RnKCB4
+
+siemens_eq6:
+  name: "Siemens EQ.6 Plus s400 Kaffeevollautomat, 1500W, automatische Reinigung"
+  url: https://amzn.to/4fDUvVa
+
+siemens_pflegeset:
+  name: "Siemens Pflegeset für Kaffeevollautomaten (Reinigungstabletten + Entkalkertabs + Wasserfilter)"
+  url: https://amzn.to/3PttAAW
+
+# --- ESPHome Sensoren ---
+
+esp32_c3_supermini:
+  name: "ESP32-C3 Super Mini, WiFi + Bluetooth, USB-C, ultra-kompakt"
+  url: https://amzn.to/4fapQ1C
+
+dht22_sensor:
+  name: "DHT22 Temperatur- und Luftfeuchtigkeitssensor, digital, 3.3-5V"
+  url: https://amzn.to/4fJlU8b
+
+bh1750_sensor:
+  name: "BH1750 Lichtsensor Modul, I2C, für Arduino/ESP32"
+  url: https://amzn.to/4tY4uIu
+
+kapazitiver_bodensensor:
+  name: "Kapazitiver Bodenfeuchtesensor v1.2, korrosionsfrei, analog"
+  url: https://amzn.to/431MrGi
+
+# --- Elegoo Neptune 4 ---
+
+neptune_4_plus:
+  name: "Elegoo Neptune 4 Plus, Klipper vorinstalliert, 500mm/s, 320x320x385mm"
+  url: https://amzn.to/4uA3fjG

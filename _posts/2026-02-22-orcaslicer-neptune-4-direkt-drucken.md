@@ -5,8 +5,6 @@ date: 2026-02-22
 categories: [3D-Druck]
 tags: [3D-Druck, Neptune4, Klipper]
 description: "OrcaSlicer statt Cura für den Elegoo Neptune 4 – direktes Drucken über WLAN ohne SD-Karte oder manuellen Upload. Einrichtung in 5 Minuten."
-image:
-  path: /assets/img/posts/orcaslicer-neptune4.jpg
 ---
 
 Ich habe viel zu lange mit Cura gedruckt. Der Workflow war jedes Mal der gleiche Krampf: Modell slicen, G-Code auf die SD-Karte speichern (oder über das Fluidd-Webinterface hochladen), zum Drucker laufen, Druck starten. Bei jedem einzelnen Druck.

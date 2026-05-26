@@ -5,8 +5,6 @@ date: 2026-05-20
 categories: [Smart Home]
 tags: [ESPHome, ESP32, HomeAssistant]
 description: "Kapazitiver Bodenfeuchtesensor am ESP32 mit ESPHome – automatische Gieß-Erinnerung per Push-Nachricht wenn die Pflanze Durst hat."
-image:
-  path: /assets/img/posts/pflanzensensor-esp32.jpg
 ---
 
 Ich bin ein Pflanzen-Killer. Nicht absichtlich – ich vergesse es einfach. Die Monstera im Wohnzimmer sieht drei Wochen lang prächtig aus und dann hängen plötzlich alle Blätter. Bis ich es merke, ist es fast zu spät.

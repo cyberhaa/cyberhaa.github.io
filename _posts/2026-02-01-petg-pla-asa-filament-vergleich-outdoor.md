@@ -5,8 +5,6 @@ date: 2026-02-01
 categories: [3D-Druck]
 tags: [3D-Druck, Neptune4]
 description: "PETG, PLA oder ASA für den Außeneinsatz? Ehrlicher Vergleich mit Praxiserfahrung – Landroid-Räder, Gartenhalterungen und Outdoor-Gehäuse."
-image:
-  path: /assets/img/posts/filament-vergleich.jpg
 ---
 
 Wer seinen 3D-Drucker nicht nur für Deko-Figuren nutzt, steht irgendwann vor der Frage: Welches Filament hält draußen? Meine [Landroid Traktor-Räder]({% post_url 2026-04-12-worx-landroid-tuning-3d-druck-home-assistant %}) stehen das ganze Jahr im Garten – Sonne, Regen, Frost. Da kann man nicht einfach PLA nehmen und hoffen.

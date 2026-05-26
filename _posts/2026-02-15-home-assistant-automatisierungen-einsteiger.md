@@ -5,8 +5,6 @@ date: 2026-02-15
 categories: [Smart Home]
 tags: [HomeAssistant, Zigbee]
 description: "5 praktische Home Assistant Automatisierungen für Einsteiger – Licht bei Bewegung, Heizung nach Zeitplan, Fenster-Warnung und mehr."
-image:
-  path: /assets/img/posts/ha-automatisierungen.jpg
 ---
 
 Home Assistant ist installiert, die ersten Geräte sind eingebunden – und jetzt? Viele bleiben beim manuellen Schalten über die App hängen. Dabei sind Automatisierungen der eigentliche Grund, warum sich ein Smart Home lohnt: Das Haus denkt mit, ohne dass du ständig zum Handy greifen musst.

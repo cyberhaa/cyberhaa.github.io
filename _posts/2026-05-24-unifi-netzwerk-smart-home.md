@@ -5,8 +5,6 @@ date: 2026-05-24
 categories: [Server & Netzwerk]
 tags: [UniFi, HomeAssistant, Sicherheit]
 description: "UniFi Netzwerk für ein stabiles Smart Home einrichten – VLANs, IoT-Trennung und lückenloses WLAN mit Dream Router und U6+ Access Points."
-image:
-  path: /assets/img/posts/unifi-netzwerk.jpg
 ---
 
 Wer 50+ Smart-Home-Geräte im Netzwerk hat, merkt irgendwann: Die Fritz!Box stößt an ihre Grenzen. Nicht unbedingt bei der Geschwindigkeit, sondern bei der Kontrolle. Welches Gerät funkt wohin? Warum hängt sich der Zigbee-Hub auf, wenn die Kids Netflix streamen? Und warum sieht die billige China-Kamera mein ganzes Netzwerk?

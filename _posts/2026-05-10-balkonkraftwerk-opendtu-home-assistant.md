@@ -5,8 +5,6 @@ date: 2026-05-10
 categories: [Smart Home]
 tags: [Solar, HomeAssistant, ESP32]
 description: "Balkonkraftwerk mit OpenDTU und Home Assistant überwachen – Live-Produktion per MQTT, ohne Hoymiles Cloud, komplett lokal."
-image:
-  path: /assets/img/posts/opendtu-balkonkraftwerk.jpg
 ---
 
 Seit der Gesetzesänderung darf ein Balkonkraftwerk in Deutschland bis zu 800 Watt ins Hausnetz einspeisen. Einstecken, anmelden, fertig. Aber dann? Die Hoymiles-App zeigt zwar irgendwas an, aber die Daten laufen über chinesische Cloud-Server, die Aktualisierung dauert ewig, und in Home Assistant siehst du erstmal gar nichts.

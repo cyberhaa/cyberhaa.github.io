@@ -5,8 +5,6 @@ date: 2025-11-02
 categories: [3D-Druck]
 tags: [3D-Druck, Neptune4, Klipper]
 description: "Elegoo Neptune 4 einrichten – vom Auspacken über die Kalibrierung bis zum ersten erfolgreichen Druck. Schritt für Schritt für Einsteiger."
-image:
-  path: /assets/img/posts/neptune4-einsteiger.jpg
 ---
 
 Du hast dir einen [Elegoo Neptune 4 *]({{ site.data.amazon.neptune_4_plus.url }}){:target="_blank"} bestellt und der Karton steht vor dir. Und jetzt? YouTube-Videos zum Thema sind entweder 45 Minuten lang oder setzen voraus, dass du schon weißt was "Z-Offset" und "Flow Rate" bedeuten.

@@ -5,8 +5,6 @@ date: 2026-04-19
 categories: [Smart Home]
 tags: [ESPHome, ESP32, HomeAssistant]
 description: "3 ESPHome-Sensoren für Home Assistant selbst bauen – Temperatur, Licht und Bodenfeuchtigkeit. Unter 10€ pro Sensor, kein Löten nötig."
-image:
-  path: /assets/img/posts/esphome-sensoren.jpg
 ---
 
 Zigbee-Sensoren sind praktisch – aber manchmal will man was Spezielles, das es fertig nicht gibt. Oder man will einfach nicht 25€ für einen Temperatursensor ausgeben, wenn ein ESP32 mit Sensor-Modul für unter 10€ das Gleiche kann.

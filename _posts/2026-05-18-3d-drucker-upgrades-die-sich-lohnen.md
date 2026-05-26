@@ -5,8 +5,6 @@ date: 2026-05-18
 categories: [3D-Druck]
 tags: [3D-Druck, Neptune4, Klipper]
 description: "Welche 3D-Drucker Upgrades bringen wirklich was? PEI-Platte, gehärtete Düsen und Klipper-Tuning – meine ehrliche Erfahrung mit dem Neptune 4."
-image:
-  path: /assets/img/posts/3d-drucker-upgrades.jpg
 ---
 
 Wenn man einen 3D-Drucker kauft, dauert es ungefähr eine Woche bis man anfängt, Upgrades zu recherchieren. Das Internet ist voll mit "Must-Have Mods" – aber ehrlich gesagt ist die Hälfte davon Geldverschwendung. Zumindest bei modernen Druckern wie dem Elegoo Neptune 4, der ab Werk schon ziemlich gut ist.

@@ -5,8 +5,6 @@ date: 2025-12-14
 categories: [Server & Netzwerk]
 tags: [Unraid, Backup]
 description: "Immich, Nextcloud Photos und PhotoPrism im ehrlichen Vergleich – welche selbst gehostete Foto-Verwaltung ersetzt Google Photos am besten?"
-image:
-  path: /assets/img/posts/foto-vergleich.jpg
 ---
 
 Wer seine Fotos von Google Photos befreien will, steht vor der Qual der Wahl. Es gibt mittlerweile drei ernstzunehmende Open-Source-Alternativen: **Immich**, **Nextcloud Photos** und **PhotoPrism**. Alle drei laufen auf dem eigenen Server, alle drei versprechen das Google-Photos-Erlebnis ohne Cloud.

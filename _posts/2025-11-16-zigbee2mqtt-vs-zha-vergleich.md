@@ -5,8 +5,6 @@ date: 2025-11-16
 categories: [Smart Home]
 tags: [Zigbee, HomeAssistant, Zigbee2MQTT]
 description: "Zigbee2MQTT oder ZHA? Ehrlicher Vergleich der beiden Zigbee-Integrationen für Home Assistant – Geräte-Support, Stabilität und Einrichtung."
-image:
-  path: /assets/img/posts/z2m-vs-zha.jpg
 ---
 
 Wer Zigbee-Geräte in Home Assistant einbinden will, steht vor einer grundlegenden Entscheidung: **Zigbee2MQTT (Z2M)** oder **ZHA (Zigbee Home Automation)**? Beide machen im Grunde das Gleiche – Zigbee-Geräte mit Home Assistant verbinden. Aber der Weg dahin und die Möglichkeiten unterscheiden sich deutlich.

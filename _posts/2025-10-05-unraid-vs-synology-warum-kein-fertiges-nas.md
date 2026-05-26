@@ -5,8 +5,6 @@ date: 2025-10-05
 categories: [Server & Netzwerk]
 tags: [Unraid, Mini-PC]
 description: "Unraid auf einem Mini-PC vs. Synology DiskStation – ehrlicher Vergleich für Smart-Home-Nutzer. Warum Selbstbau flexibler und günstiger ist."
-image:
-  path: /assets/img/posts/unraid-vs-synology.jpg
 ---
 
 Wenn man "NAS kaufen" googelt, landet man unweigerlich bei Synology. Die DiskStations sind überall empfohlen, sehen schick aus und versprechen einfache Einrichtung. Ich hab trotzdem keins gekauft – und stattdessen Unraid auf einen [Mini-PC]({% post_url 2025-06-22-mini-pc-vs-pi-unraid-switch %}) gepackt. Hier ist warum.

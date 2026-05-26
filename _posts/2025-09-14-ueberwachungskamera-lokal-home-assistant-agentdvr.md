@@ -5,8 +5,6 @@ date: 2025-09-14
 categories: [Smart Home]
 tags: [HomeAssistant, Unraid, Sicherheit]
 description: "Überwachungskameras ohne Cloud betreiben – mit AgentDVR auf Unraid und Home Assistant. Lokale Aufzeichnung, Bewegungserkennung und Push-Benachrichtigung."
-image:
-  path: /assets/img/posts/agentdvr-kamera.jpg
 ---
 
 Die meisten Überwachungskameras wollen dich in ein Cloud-Abo drücken. Ring, Arlo, Nest – alle speichern deine Videos auf fremden Servern und verlangen monatlich Geld dafür. Und wenn der Hersteller den Dienst einstellt? Dann hast du eine teure Kamera ohne Aufzeichnung.

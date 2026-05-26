@@ -5,8 +5,6 @@ date: 2026-01-18
 categories: [Server & Netzwerk]
 tags: [Unraid, Backup, HomeAssistant]
 description: "Immich als Google Photos Ersatz auf Unraid installieren – automatischer Foto-Upload vom Handy, Gesichtserkennung und volle Kontrolle über deine Bilder."
-image:
-  path: /assets/img/posts/immich-unraid.jpg
 ---
 
 Google Photos ist bequem. Zu bequem. Man merkt gar nicht, wie 100.000 Familienfotos auf fremden Servern landen, bis Google irgendwann den kostenlosen Speicher streicht oder die Preise erhöht. Oder bis man sich fragt: Will ich wirklich, dass ein Konzern die Gesichter meiner Kinder durch seine KI jagt?

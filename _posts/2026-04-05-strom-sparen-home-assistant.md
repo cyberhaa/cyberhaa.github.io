@@ -5,8 +5,6 @@ date: 2026-04-05
 categories: [Smart Home]
 tags: [HomeAssistant, Solar, SmartMeter]
 description: "Mit Home Assistant Stromfresser finden, Standby-Verbrauch eliminieren und den Eigenverbrauch von Solar maximieren – konkrete Automatisierungen."
-image:
-  path: /assets/img/posts/ha-strom-sparen.jpg
 ---
 
 Strom kostet in Deutschland mittlerweile über 30 Cent pro Kilowattstunde. Da lohnt es sich, genauer hinzuschauen. Und genau das kann Home Assistant richtig gut: Messen, visualisieren und automatisch abschalten, was gerade nicht gebraucht wird.

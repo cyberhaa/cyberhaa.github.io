@@ -5,8 +5,6 @@ date: 2026-05-03
 categories: [3D-Druck]
 tags: [3D-Druck, Neptune4]
 description: "Wassertank-Griff abgebrochen oder Filterwechsel nervt? 3D-gedruckte Ersatzteile und Werkzeuge für die Siemens EQ6 Kaffeemaschine."
-image:
-  path: /assets/img/posts/eq6-3d-druck.jpg
 ---
 
 Die Siemens EQ6 ist ein solider Kaffeevollautomat – bis irgendwann der Griff am Wassertank abbricht. Das passiert bei fast jeder EQ6 früher oder später. Der Kunststoff wird spröde, man zieht einmal zu fest, und *knack*. Siemens will für den Ersatz-Wassertank dann 30-40€ haben. Für ein Stück Plastik.

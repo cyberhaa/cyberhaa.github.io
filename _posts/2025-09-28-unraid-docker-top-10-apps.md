@@ -5,8 +5,6 @@ date: 2025-09-28
 categories: [Server & Netzwerk]
 tags: [Unraid, HomeAssistant]
 description: "Die 10 besten Docker-Container für Unraid im Smart-Home-Einsatz – von AdGuard über Immich bis Zigbee2MQTT. Mein komplettes Setup."
-image:
-  path: /assets/img/posts/unraid-docker-apps.jpg
 ---
 
 Einer der größten Vorteile von [Unraid gegenüber einer Synology]({% post_url 2025-10-05-unraid-vs-synology-warum-kein-fertiges-nas %}) ist die Docker-Unterstützung. Über die Community Applications installierst du Container mit einem Klick – kein docker-compose, kein Terminal. Einfach Template auswählen, Pfade eintragen, starten.

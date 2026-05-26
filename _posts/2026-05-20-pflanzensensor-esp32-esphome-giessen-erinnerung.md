@@ -11,7 +11,7 @@ image:
 
 Ich bin ein Pflanzen-Killer. Nicht absichtlich – ich vergesse es einfach. Die Monstera im Wohnzimmer sieht drei Wochen lang prächtig aus und dann hängen plötzlich alle Blätter. Bis ich es merke, ist es fast zu spät.
 
-Die Lösung: Ein [ESP32 *]({{ site.data.amazon.esp32_c3_supermini.url }}) mit einem [Bodenfeuchtesensor *]({{ site.data.amazon.kapazitiver_bodensensor.url }}) in der Erde, der mir eine Push-Nachricht aufs Handy schickt wenn die Pflanze Durst hat. Kosten: unter 8€. Bauzeit: 15 Minuten.
+Die Lösung: Ein [ESP32 *]({{ site.data.amazon.esp32_c3_supermini.url }}){:target="_blank"} mit einem [Bodenfeuchtesensor *]({{ site.data.amazon.kapazitiver_bodensensor.url }}){:target="_blank"} in der Erde, der mir eine Push-Nachricht aufs Handy schickt wenn die Pflanze Durst hat. Kosten: unter 8€. Bauzeit: 15 Minuten.
 
 ## Warum kapazitiv und nicht resistiv?
 
@@ -23,9 +23,9 @@ Nimm den kapazitiven. Die 2€ Aufpreis lohnen sich.
 
 ## Hardware
 
-- [ESP32-C3 Super Mini *]({{ site.data.amazon.esp32_c3_supermini.url }}) (~4€)
-- [Kapazitiver Bodenfeuchtesensor v1.2 *]({{ site.data.amazon.kapazitiver_bodensensor.url }}) (~3€)
-- [Dupont-Kabel *]({{ site.data.amazon.dupont_kabel.url }}) (3 Stück)
+- [ESP32-C3 Super Mini *]({{ site.data.amazon.esp32_c3_supermini.url }}){:target="_blank"} (~4€)
+- [Kapazitiver Bodenfeuchtesensor v1.2 *]({{ site.data.amazon.kapazitiver_bodensensor.url }}){:target="_blank"} (~3€)
+- [Dupont-Kabel *]({{ site.data.amazon.dupont_kabel.url }}){:target="_blank"} (3 Stück)
 - USB-C Netzteil (altes Handy-Ladegerät)
 
 ## Verkabelung

@@ -11,7 +11,7 @@ image:
 
 Ein NAS im Keller ist großartig. Aber was passiert, wenn es brennt, ein Blitz einschlägt oder ein Einbrecher den ganzen Netzwerkschrank mitnimmt? Dann sind nicht nur die Smart-Home-Configs weg, sondern auch 20 Jahre Familienfotos. Darüber will man nicht nachdenken – muss man aber.
 
-Die Lösung heißt **Off-Site-Backup**: Eine verschlüsselte Kopie aller wichtigen Daten, die physisch woanders liegt. Ich nutze dafür [rclone](https://rclone.org/){:target="_blank"} (Open Source, kostenlos) zusammen mit einer [Hetzner Storage Box](https://www.hetzner.com/storage/storage-box/){:target="_blank"}. Das Ganze läuft vollautomatisch jeden Sonntag Nacht auf meinem [Unraid-Server]({% post_url 2025-06-22-mini-pc-vs-pi-unraid-switch %}), und ich muss mich um nichts kümmern.
+Die Lösung heißt **Off-Site-Backup**: Eine verschlüsselte Kopie aller wichtigen Daten, die physisch woanders liegt. Ich nutze dafür [rclone](https://rclone.org/){:target="_blank"} (Open Source, kostenlos){:target="_blank"} zusammen mit einer [Hetzner Storage Box](https://www.hetzner.com/storage/storage-box/){:target="_blank"}. Das Ganze läuft vollautomatisch jeden Sonntag Nacht auf meinem [Unraid-Server]({% post_url 2025-06-22-mini-pc-vs-pi-unraid-switch %}){:target="_blank"}, und ich muss mich um nichts kümmern.
 
 ## Warum Hetzner Storage Box?
 

@@ -29,7 +29,7 @@ Kein Löten an der Neato-Platine nötig, nur Dupont-Stecker aufstecken.
 
 ## Hardware: Was du brauchst
 
-- [ESP32-C3 Super Mini *]({{ site.data.amazon.esp32_devkit.url }}){:target="_blank"} (winzig, günstig, reicht völlig)
+- [ESP32-C3 Super Mini *]({{ site.data.amazon.esp32_devkit.url }}){:target="_blank"} (winzig, günstig, reicht völlig){:target="_blank"}
 - [Dupont-Kabel (Female-to-Female) *]({{ site.data.amazon.dupont_kabel.url }}){:target="_blank"} – 3 Stück reichen
 - Doppelseitiges Klebeband für die Montage
 - Optional: Kleiner Kondensator (100µF) zur Stabilisierung

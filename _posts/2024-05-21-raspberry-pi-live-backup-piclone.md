@@ -9,7 +9,7 @@ image:
   path: /assets/img/posts/raspberry-pies.jpg
 ---
 
-Wer sein Smart Home auf einem [Raspberry Pi *]({{ site.data.amazon.raspberry_pi_5.url }}){:target="_blank"} betreibt, lebt gefährlich. SD-Karten sind nicht für 24/7-Schreibzugriffe (Log-Dateien!) gemacht. Irgendwann kommt der Tag, an dem nichts mehr geht – und meistens hat man dann kein aktuelles Backup zur Hand.
+Wer sein Smart Home auf einem [Raspberry Pi *]({{ site.data.amazon.raspberry_pi_5.url }}){:target="_blank"} betreibt, lebt gefährlich. SD-Karten sind nicht für 24/7-Schreibzugriffe (Log-Dateien!){:target="_blank"} gemacht. Irgendwann kommt der Tag, an dem nichts mehr geht – und meistens hat man dann kein aktuelles Backup zur Hand.
 
 Das Problem: Die meisten Tools verlangen, dass du den Pi ausschaltest und die Karte am PC klonst. Nervig, zeitaufwendig und das Smart Home ist währenddessen offline.
 
@@ -30,7 +30,7 @@ _Meine beiden Raspberry Pis_
 
 Für ein zuverlässiges Backup nutze ich dieses Setup:
 * **Kartenleser:** [SanDisk MobileMate USB 3.0 *]({{ site.data.amazon.usb_reader_sd.url }}){:target="_blank"}
-* **Backup-Karte:** [SanDisk High Endurance microSD *]({{ site.data.amazon.sd_card.url }}){:target="_blank"} (hält deutlich mehr Schreibzyklen aus)
+* **Backup-Karte:** [SanDisk High Endurance microSD *]({{ site.data.amazon.sd_card.url }}){:target="_blank"} (hält deutlich mehr Schreibzyklen aus){:target="_blank"}
 
 ---
 

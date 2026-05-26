@@ -15,7 +15,7 @@ In Unraid gibt es im App-Store (Community Applications) hunderte fertige Docker-
 
 ## Warum eine VM so genial ist
 Neben dem Add-on Store hat die VM noch einen riesigen Vorteil für uns Smart-Home-Bastler: **USB Passthrough**. 
-Egal ob mein geliebter [Sonoff Zigbee-Stick *]({{ site.data.amazon.sonoff_zigbee_p.url }}){:target="_blank"} (mehr dazu in meinem [Zigbee-Stick Vergleich]({% post_url 2025-02-19-top-5-zigbee-sticks-fuer-home-assistant %})) oder der USB-Lesekopf für meinen [smarten Stromzähler]({% post_url 2025-08-11-smartmeter-hichi-in-homeassistant %}) – in den VM-Einstellungen von Unraid setze ich einfach einen Haken bei dem jeweiligen Gerät, und Home Assistant erkennt es sofort, als würde es direkt am Gerät stecken. Kein mühsames Herumschlagen mit Linux-Berechtigungen!
+Egal ob mein geliebter [Sonoff Zigbee-Stick *]({{ site.data.amazon.sonoff_zigbee_p.url }}){:target="_blank"} (mehr dazu in meinem [Zigbee-Stick Vergleich]({% post_url 2025-02-19-top-5-zigbee-sticks-fuer-home-assistant %}){:target="_blank"}) oder der USB-Lesekopf für meinen [smarten Stromzähler]({% post_url 2025-08-11-smartmeter-hichi-in-homeassistant %}) – in den VM-Einstellungen von Unraid setze ich einfach einen Haken bei dem jeweiligen Gerät, und Home Assistant erkennt es sofort, als würde es direkt am Gerät stecken. Kein mühsames Herumschlagen mit Linux-Berechtigungen!
 
 ## Schritt 1: Das richtige Image herunterladen
 Du brauchst zuerst die virtuelle Festplatte von Home Assistant.

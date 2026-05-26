@@ -36,7 +36,7 @@ Die Lösung sind 3D-gedruckte Traktor-Räder mit aggressivem Profil. Ich nutze d
 Pro Rad brauchst du drei Teile: Reifen, Felgenabdeckung und Nabe. Das Ganze **2x drucken** (links + rechts). Ganz wichtig: Die Originalgewichte aus den alten Rädern müssen in die neuen Naben eingesetzt werden, sonst erkennt der Landroid die Räder nicht korrekt.
 
 ### Vorderräder nicht vergessen!
-Die neuen Hinterräder haben einen größeren Durchmesser (220mm statt original). Damit der Mäher nicht schief steht, brauchst du auch Verstärkungen für die Vorderräder. Dafür gibt es Slide-On Aufsätze auf [Printables (Modell #529424)](https://www.printables.com/model/529424){:target="_blank"}, die einfach auf die bestehenden Vorderräder aufgeschoben werden. **2x drucken** (der WR148E hat zwei Vorderräder) mit 80-100% Infill.
+Die neuen Hinterräder haben einen größeren Durchmesser (220mm statt original). Damit der Mäher nicht schief steht, brauchst du auch Verstärkungen für die Vorderräder. Dafür gibt es Slide-On Aufsätze auf [Printables (Modell #529424)](https://www.printables.com/model/529424){:target="_blank"}, die einfach auf die bestehenden Vorderräder aufgeschoben werden. **2x drucken** (der WR148E hat zwei Vorderräder){:target="_blank"} mit 80-100% Infill.
 
 **Das Ergebnis:** Der Landroid krallt sich jetzt förmlich in den Boden. Steigungen, die vorher zum Abbruch geführt haben, nimmt er einfach so. Bei nassem Gras dreht auch nichts mehr durch. Hätte ich mal gleich gemacht.
 
@@ -48,8 +48,8 @@ Auf Printables gibt es eine kostenlose 6-Klingen-Scheibe: [Modell #203620 von Cr
 
 ### Was du brauchst
 - Die STL-Dateien: `Cutting_disc_6_blades.stl` + `Adapter_original_height.stl`
-- 6x [Worx Ersatzklingen WA0190 *]({{ site.data.amazon.landroid_klingen.url }}){:target="_blank"} (die Standard-Klingen passen weiterhin!)
-- 6x [M4 Gewindeeinsätze *]({{ site.data.amazon.gewindeeinsaetze_m4.url }}){:target="_blank"} (mit dem Lötkolben einschmelzen)
+- 6x [Worx Ersatzklingen WA0190 *]({{ site.data.amazon.landroid_klingen.url }}){:target="_blank"} (die Standard-Klingen passen weiterhin!){:target="_blank"}
+- 6x [M4 Gewindeeinsätze *]({{ site.data.amazon.gewindeeinsaetze_m4.url }}){:target="_blank"} (mit dem Lötkolben einschmelzen){:target="_blank"}
 
 ### Druckeinstellungen
 - **Material:** PETG

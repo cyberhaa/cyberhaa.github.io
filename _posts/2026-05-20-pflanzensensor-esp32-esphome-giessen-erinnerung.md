@@ -170,3 +170,8 @@ Das ist für mich Smart Home in seiner besten Form: Ein echtes Problem lösen, f
 
 *Die Grundlagen zu ESPHome und weitere Sensor-Projekte findest du in meinem [ESPHome Einsteiger-Artikel]({% post_url 2026-04-19-esphome-sensoren-einsteiger %}). Und den ESP32-C3 Super Mini kennst du vielleicht schon aus dem [Neato-Saugroboter-Projekt]({% post_url 2026-03-15-neato-botvac-d5-esp32-home-assistant %}).*
 
+<style>
+  /* Versteckt das automatische Header-Bild ganz oben im Artikel */
+  .preview-img { display: none !important; }
+</style>
+

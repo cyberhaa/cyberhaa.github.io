@@ -75,3 +75,8 @@ Der 3D-Drucker ist nicht nur für Smart-Home-Basteleien gut – er rettet auch H
 
 *Falls du noch keinen 3D-Drucker hast: In meinem [Upgrade-Guide]({% post_url 2026-05-18-3d-drucker-upgrades-die-sich-lohnen %}) zeige ich dir, welche Verbesserungen sich am Neptune 4 wirklich lohnen. Und welches [Filament für solche Teile am besten taugt]({% post_url 2026-02-01-petg-pla-asa-filament-vergleich-outdoor %}), erkläre ich im Filament-Vergleich.*
 
+<style>
+  /* Versteckt das automatische Header-Bild ganz oben im Artikel */
+  .preview-img { display: none !important; }
+</style>
+

@@ -80,3 +80,8 @@ Wenn du mehr als eine Handvoll Smart-Home-Geräte hast und dir Sicherheit wichti
 
 *Für werbefreies Internet im ganzen Netzwerk schau dir meinen Artikel zu [AdGuard Home auf Unraid]({% post_url 2025-08-12-adguard-unbound %}) an – das ergänzt sich perfekt mit den UniFi VLANs.*
 
+<style>
+  /* Versteckt das automatische Header-Bild ganz oben im Artikel */
+  .preview-img { display: none !important; }
+</style>
+

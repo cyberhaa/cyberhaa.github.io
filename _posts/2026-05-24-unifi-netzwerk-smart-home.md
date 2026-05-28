@@ -5,11 +5,16 @@ date: 2026-05-24
 categories: [Server & Netzwerk]
 tags: [UniFi, HomeAssistant, Sicherheit]
 description: "UniFi Netzwerk für ein stabiles Smart Home einrichten – VLANs, IoT-Trennung und lückenloses WLAN mit Dream Router und U6+ Access Points."
+image:
+  path: /assets/img/posts/unifi-wlan.jpg
 ---
 
 Wer 50+ Smart-Home-Geräte im Netzwerk hat, merkt irgendwann: Die Fritz!Box stößt an ihre Grenzen. Nicht unbedingt bei der Geschwindigkeit, sondern bei der Kontrolle. Welches Gerät funkt wohin? Warum hängt sich der Zigbee-Hub auf, wenn die Kids Netflix streamen? Und warum sieht die billige China-Kamera mein ganzes Netzwerk?
 
 Ich bin vor einer Weile auf **Ubiquiti UniFi** umgestiegen und bereue nichts. Hier ist mein Setup und warum es für ein Smart Home so viel besser funktioniert als eine Consumer-Box.
+
+![UniFi Dream Router und Netzwerkkomponenten im Einsatz](/assets/img/posts/unifi-wlan.jpg){: .shadow .rounded-10 }
+_Mein UniFi-Setup im Flur_
 
 ## Warum UniFi?
 
@@ -75,6 +80,3 @@ Wenn du mehr als eine Handvoll Smart-Home-Geräte hast und dir Sicherheit wichti
 
 *Für werbefreies Internet im ganzen Netzwerk schau dir meinen Artikel zu [AdGuard Home auf Unraid]({% post_url 2025-08-12-adguard-unbound %}) an – das ergänzt sich perfekt mit den UniFi VLANs.*
 
-<style>
-  .preview-img { display: none !important; }
-</style>

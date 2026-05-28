@@ -5,6 +5,8 @@ date: 2026-05-03
 categories: [3D-Druck]
 tags: [3D-Druck, Neptune4]
 description: "Wassertank-Griff abgebrochen oder Filterwechsel nervt? 3D-gedruckte Ersatzteile und Werkzeuge für die Siemens EQ6 Kaffeemaschine."
+image:
+  path: /assets/img/posts/simens-eq.jpg
 ---
 
 Die Siemens EQ6 ist ein solider Kaffeevollautomat – bis irgendwann der Griff am Wassertank abbricht. Das passiert bei fast jeder EQ6 früher oder später. Der Kunststoff wird spröde, man zieht einmal zu fest, und *knack*. Siemens will für den Ersatz-Wassertank dann 30-40€ haben. Für ein Stück Plastik.
@@ -12,6 +14,9 @@ Die Siemens EQ6 ist ein solider Kaffeevollautomat – bis irgendwann der Griff a
 Oder der Wasserfilter-Wechsel: Alle paar Wochen muss der [BRITA Intenza Filter *]({{ site.data.amazon.siemens_wasserfilter.url }}){:target="_blank"} raus und ein neuer rein. Das Ding sitzt unten im Tank, man muss mit den Fingern reingreifen, drehen, drücken – und kleckert sich dabei jedes Mal die Hände nass.
 
 Beides lässt sich mit dem 3D-Drucker lösen. Kostet ein paar Cent Filament und 30 Minuten Druckzeit.
+
+![Siemens EQ6 Kaffeevollautomat mit 3D-gedrucktem Wassertank-Griff](/assets/img/posts/simens-eq.jpg){: .shadow .rounded-10 }
+_Meine Siemens EQ6 mit neuem Griff_
 
 ## Mod 1: Wassertank-Griff drucken (wenn er abgebrochen ist)
 
@@ -70,6 +75,3 @@ Der 3D-Drucker ist nicht nur für Smart-Home-Basteleien gut – er rettet auch H
 
 *Falls du noch keinen 3D-Drucker hast: In meinem [Upgrade-Guide]({% post_url 2026-05-18-3d-drucker-upgrades-die-sich-lohnen %}) zeige ich dir, welche Verbesserungen sich am Neptune 4 wirklich lohnen. Und welches [Filament für solche Teile am besten taugt]({% post_url 2026-02-01-petg-pla-asa-filament-vergleich-outdoor %}), erkläre ich im Filament-Vergleich.*
 
-<style>
-  .preview-img { display: none !important; }
-</style>

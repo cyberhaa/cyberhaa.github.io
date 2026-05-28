@@ -5,11 +5,16 @@ date: 2026-05-20
 categories: [Smart Home]
 tags: [ESPHome, ESP32, HomeAssistant]
 description: "Kapazitiver Bodenfeuchtesensor am ESP32 mit ESPHome – automatische Gieß-Erinnerung per Push-Nachricht wenn die Pflanze Durst hat."
+image:
+  path: /assets/img/posts/esp-soil-sensor.jpg
 ---
 
 Ich bin ein Pflanzen-Killer. Nicht absichtlich – ich vergesse es einfach. Die Monstera im Wohnzimmer sieht drei Wochen lang prächtig aus und dann hängen plötzlich alle Blätter. Bis ich es merke, ist es fast zu spät.
 
 Die Lösung: Ein [ESP32 *]({{ site.data.amazon.esp32_c3_supermini.url }}){:target="_blank"} mit einem [Bodenfeuchtesensor *]({{ site.data.amazon.kapazitiver_bodensensor.url }}){:target="_blank"} in der Erde, der mir eine Push-Nachricht aufs Handy schickt wenn die Pflanze Durst hat. Kosten: unter 8€. Bauzeit: 15 Minuten.
+
+![Kapazitiver Bodenfeuchtesensor am ESP32 im Blumentopf](/assets/img/posts/esp-soil-sensor.jpg){: .shadow .rounded-10 }
+_Der fertige DIY-Pflanzensensor im Einsatz_
 
 ## Warum kapazitiv und nicht resistiv?
 
@@ -165,6 +170,3 @@ Das ist für mich Smart Home in seiner besten Form: Ein echtes Problem lösen, f
 
 *Die Grundlagen zu ESPHome und weitere Sensor-Projekte findest du in meinem [ESPHome Einsteiger-Artikel]({% post_url 2026-04-19-esphome-sensoren-einsteiger %}). Und den ESP32-C3 Super Mini kennst du vielleicht schon aus dem [Neato-Saugroboter-Projekt]({% post_url 2026-03-15-neato-botvac-d5-esp32-home-assistant %}).*
 
-<style>
-  .preview-img { display: none !important; }
-</style>

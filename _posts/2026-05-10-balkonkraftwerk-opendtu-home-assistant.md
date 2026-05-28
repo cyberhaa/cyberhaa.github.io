@@ -5,11 +5,16 @@ date: 2026-05-10
 categories: [Smart Home]
 tags: [Solar, HomeAssistant, ESP32]
 description: "Balkonkraftwerk mit OpenDTU und Home Assistant überwachen – Live-Produktion per MQTT, ohne Hoymiles Cloud, komplett lokal."
+image:
+  path: /assets/img/posts/esp32-opendtu.jpg
 ---
 
 Seit der Gesetzesänderung darf ein Balkonkraftwerk in Deutschland bis zu 800 Watt ins Hausnetz einspeisen. Einstecken, anmelden, fertig. Aber dann? Die Hoymiles-App zeigt zwar irgendwas an, aber die Daten laufen über chinesische Cloud-Server, die Aktualisierung dauert ewig, und in Home Assistant siehst du erstmal gar nichts.
 
 Bei mir hängt das [Balkonkraftwerk *]({{ site.data.amazon.balkonkraftwerk_800w.url }}){:target="_blank"} am Balkongeländer mit einem [Hoymiles Wechselrichter *]({{ site.data.amazon.hoymiles_hms_800.url }}){:target="_blank"}. Um die Live-Produktion lokal und ohne Cloud in Home Assistant zu bekommen, nutze ich **OpenDTU** – eine Open-Source-Firmware auf einem ESP32, die direkt per Funk mit dem Wechselrichter spricht.
+
+![OpenDTU Gehäuse mit ESP32 und Funkmodul für Balkonkraftwerk Überwachung](/assets/img/posts/esp32-opendtu.jpg){: .shadow .rounded-10 }
+_Mein OpenDTU-Gateway im Einsatz_
 
 ## Was ist OpenDTU?
 
@@ -127,5 +132,6 @@ Das Setup läuft bei mir seit Monaten absolut stabil. Der ESP32 hängt per USB-N
 *Noch keinen Smart Meter? In meinem Artikel [Stromzähler smart machen]({% post_url 2025-08-11-smartmeter-hichi-in-homeassistant %}) zeige ich dir, wie du den Live-Verbrauch deines Hauses in Home Assistant bekommst – die perfekte Ergänzung zum Balkonkraftwerk.*
 
 <style>
+  /* Versteckt das automatische Header-Bild ganz oben im Artikel */
   .preview-img { display: none !important; }
 </style>

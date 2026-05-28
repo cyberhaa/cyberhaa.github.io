@@ -5,9 +5,14 @@ date: 2026-01-18
 categories: [Server & Netzwerk]
 tags: [Unraid, Backup, HomeAssistant]
 description: "Immich als Google Photos Ersatz auf Unraid installieren – automatischer Foto-Upload vom Handy, Gesichtserkennung und volle Kontrolle über deine Bilder."
+image:
+  path: /assets/img/posts/immich-demo.png
 ---
 
 Google Photos ist bequem. Zu bequem. Man merkt gar nicht, wie 100.000 Familienfotos auf fremden Servern landen, bis Google irgendwann den kostenlosen Speicher streicht oder die Preise erhöht. Oder bis man sich fragt: Will ich wirklich, dass ein Konzern die Gesichter meiner Kinder durch seine KI jagt?
+
+![Immich Web-Interface mit Foto-Timeline und Alben-Übersicht](/assets/img/posts/immich-demo.png){: .shadow .rounded-10 }
+_Die Immich Benutzeroberfläche – sieht fast aus wie das Original_
 
 Ich wollte raus aus der Abhängigkeit, aber ohne auf den Komfort zu verzichten. Die Lösung heißt **Immich** – eine Open-Source Google Photos Alternative, die auf deinem eigenen Server läuft. Bei mir als Docker-Container auf [Unraid]({% post_url 2025-06-22-mini-pc-vs-pi-unraid-switch %}).
 
@@ -77,5 +82,6 @@ Immich ist mittlerweile so gut, dass ich Google Photos nicht mehr vermisse. Die 
 Wenn du schon einen [Unraid-Server]({% post_url 2025-06-22-mini-pc-vs-pi-unraid-switch %}) hast, ist die Installation in 10 Minuten erledigt. Und mit dem [verschlüsselten Backup auf Hetzner]({% post_url 2026-03-28-unraid-backup-rclone-hetzner-verschluesselt %}) sind deine Erinnerungen auch gegen den Worst Case abgesichert.
 
 <style>
+  /* Versteckt das automatische Header-Bild ganz oben im Artikel */
   .preview-img { display: none !important; }
 </style>
